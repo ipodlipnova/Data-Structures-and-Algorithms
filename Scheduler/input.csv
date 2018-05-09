@@ -1,0 +1,4 @@
+NAME,EVENT,CPU_TIME_REQUIRED,PRIORITY
+System Boot,0,20000,17
+Driver load,15000,10000,16
+!!Very important daemon,19000,100,17
